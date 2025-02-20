@@ -74,6 +74,9 @@ Imagine a user in a country where access to global equity markets is restricted.
 ## Presentation: 
 https://www.canva.com/design/DAGfm3quAhM/JynBfO8yQcYfFrKF12KLXQ/view?utm_content=DAGfm3quAhM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he27793ccfc
 
+## Video
+https://www.loom.com/share/20bbe1bdfac749acbfc4da99f93737e6?sid=6102f8a7-d52b-4361-8403-9af6e1ffacd6
+
 ## Getting Started
 
 To get started with Vector Protocol, follow these steps:
