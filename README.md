@@ -75,7 +75,7 @@ Imagine a user in a country where access to global equity markets is restricted.
 https://www.canva.com/design/DAGfm3quAhM/JynBfO8yQcYfFrKF12KLXQ/view?utm_content=DAGfm3quAhM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he27793ccfc
 
 ## Video
-https://www.loom.com/share/20bbe1bdfac749acbfc4da99f93737e6?sid=6102f8a7-d52b-4361-8403-9af6e1ffacd6
+[https://www.loom.com/share/20bbe1bdfac749acbfc4da99f93737e6?sid=6102f8a7-d52b-4361-8403-9af6e1ffacd6](https://www.loom.com/share/dd1064c2775c4957ab41189f4f88ae87?sid=99ebf53b-6b35-4da8-8091-3de5d3f378c4)
 
 ## Getting Started
 
