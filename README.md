@@ -1,4 +1,5 @@
-# Vector Protocol
+# Vector Protocol 
+Live Link: https://vector-seven.vercel.app/
 
 **Vector Protocol** is a decentralized platform built on the **Ripple** blockchain, designed for the creation, trading, and management of **synthetic assets**. It enables users to mint, manage, and trade synthetic assets that represent real-world assets, such as equities of companies, commodities, and more. By leveraging **smart contracts** and **oracles**, Vector Protocol allows users to mint synthetic assets (e.g., vGOOGL for Google) by locking collateral in a smart contract, enabling **global trading** of these assets. This opens up opportunities for users worldwide to buy, sell, and manage any asset in a decentralized and permissionless manner.
 
